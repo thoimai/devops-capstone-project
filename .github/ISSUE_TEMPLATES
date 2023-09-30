@@ -9,4 +9,12 @@
     Given [some context]
     When [certain action is taken]
     Then [the outcome of action is observed]
+
+### Definition of "Done":
+
+    Code is written according to standards, reviewed, and checked into the repository.
+    Unit tests are written, run, and all pass.
+    Acceptance criteria are met.
+    Any deployment or build scripts are updated and tested.
+    Documentation is updated.
     
